@@ -118,6 +118,7 @@
             // txtDescripcionAgregar
             // 
             txtDescripcionAgregar.Location = new Point(28, 124);
+            txtDescripcionAgregar.Multiline = true;
             txtDescripcionAgregar.Name = "txtDescripcionAgregar";
             txtDescripcionAgregar.Size = new Size(306, 23);
             txtDescripcionAgregar.TabIndex = 12;
